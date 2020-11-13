@@ -1,1 +1,1 @@
-Script untuk install openvpn atau biasa disingkan ovpn pada linux
+Script untuk install openvpn atau biasa disingkat ovpn pada linux
